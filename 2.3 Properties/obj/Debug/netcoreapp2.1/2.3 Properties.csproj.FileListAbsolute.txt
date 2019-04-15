@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\bin\Debug\netcoreapp2.1\2.3 Properties.deps.json
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\bin\Debug\netcoreapp2.1\2.3 Properties.runtimeconfig.json
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\bin\Debug\netcoreapp2.1\2.3 Properties.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\bin\Debug\netcoreapp2.1\2.3 Properties.dll
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\bin\Debug\netcoreapp2.1\2.3 Properties.pdb
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\obj\Debug\netcoreapp2.1\2.3 Properties.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\obj\Debug\netcoreapp2.1\2.3 Properties.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\obj\Debug\netcoreapp2.1\2.3 Properties.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\obj\Debug\netcoreapp2.1\2.3 Properties.dll
+C:\Users\mchittenden\source\repos\Lesson02\2.3 Properties\obj\Debug\netcoreapp2.1\2.3 Properties.pdb

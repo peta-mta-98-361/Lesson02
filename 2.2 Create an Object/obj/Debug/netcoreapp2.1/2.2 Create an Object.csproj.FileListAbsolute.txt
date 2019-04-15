@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\bin\Debug\netcoreapp2.1\2.2 Create an Object.deps.json
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\bin\Debug\netcoreapp2.1\2.2 Create an Object.runtimeconfig.json
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\bin\Debug\netcoreapp2.1\2.2 Create an Object.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\bin\Debug\netcoreapp2.1\2.2 Create an Object.dll
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\bin\Debug\netcoreapp2.1\2.2 Create an Object.pdb
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.dll
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.pdb
+C:\Users\mchittenden\source\repos\Lesson02\2.2 Create an Object\obj\Debug\netcoreapp2.1\2.2 Create an Object.csprojAssemblyReference.cache
